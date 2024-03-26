@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--asws-ebrl",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/bf692267-05c8-4f24-a640-1edcbc8352ee/resourceGroups/rg_ebrl/providers/Microsoft.Synapse/workspaces/asws-ebrl",
+		"groupId": "sql",
+		"fqdns": [
+			"asws-ebrl.9769f31f-4ab1-448d-b75b-2b2a3f67b625.sql.azuresynapse.net"
+		]
+	}
+}
