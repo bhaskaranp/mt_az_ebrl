@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--asws-ebrl-stebrl",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/bf692267-05c8-4f24-a640-1edcbc8352ee/resourceGroups/rg_ebrl/providers/Microsoft.Storage/storageAccounts/stebrl",
+		"groupId": "dfs"
+	}
+}
